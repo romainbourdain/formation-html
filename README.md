@@ -218,8 +218,8 @@ Pour vous aider, voici les étapes à suivre :
 
 ## Liens utiles
 
-- [Résumé de toutes les balises de structure HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
-- [Résumé de toutes les balises pour formulaires HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+- [Résumé de toutes les balises usuelles HTML](https://github.com/romainbourdain/formation-html/blob/main/resources/elements.pdf)
+- [Résumé de toutes les balises pour formulaires HTML](https://github.com/romainbourdain/formation-html/blob/main/resources/forms.pdf)
 - [Documentation HTML de Mozilla](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [Formation HTML de Grafikart](https://grafikart.fr/formations/html)
 - [Formation HTML, CSS de OpenClassRoom](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)
