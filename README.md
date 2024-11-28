@@ -215,3 +215,12 @@ Pour vous aider, voici les étapes à suivre :
 - Créez les différents fichier HTML pour votre projet.
 - Créez un dossier `images` et ajoutez les images nécessaires pour votre page.
 - Ajoutez le contenu des différentes sections de la page en utilisant les balises HTML appropriées.
+
+## Liens utiles
+
+- [Résumé de toutes les balises de structure HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+- [Résumé de toutes les balises pour formulaires HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element)
+- [Documentation HTML de Mozilla](https://developer.mozilla.org/fr/docs/Web/HTML)
+- [Formation HTML de Grafikart](https://grafikart.fr/formations/html)
+- [Formation HTML, CSS de OpenClassRoom](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)
+- [Formation HTML de Codecademy (en anglais)](https://www.codecademy.com/learn/learn-html)
