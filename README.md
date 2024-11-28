@@ -207,7 +207,7 @@ Les pages sont accessibles en changeant l'URL dans le navigateur.
 
 ## Mini Projet
 
-Maintenant que vous avez appris les bases du HTML, il est temps de mettre en pratique vos connaissances en créant une page web simple. Vous allez devoir reproduire la page créée à ce [lien]()
+Maintenant que vous avez appris les bases du HTML, il est temps de mettre en pratique vos connaissances en créant une page web simple. Vous allez devoir reproduire la page créée à ce [lien](https://romainbourdain.github.io/formation-html/)
 
 Pour vous aider, voici les étapes à suivre :
 
