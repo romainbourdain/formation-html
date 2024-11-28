@@ -4,7 +4,7 @@ Ce dépôt contient les ressources pour apprendre le langage HTML de zéro. L'ob
 
 ## Configuration
 
-Pour faire du code HTML, rien de plus simple : il suffit d'un éditeur de texte et d'un navigateur web. Vous pouvez utiliser n'importe quel éditeur de texte, mais je vous recommande d'utilise [Visual Studio Code]().
+Pour faire du code HTML, rien de plus simple : il suffit d'un éditeur de texte et d'un navigateur web. Vous pouvez utiliser n'importe quel éditeur de texte, mais je vous recommande d'utilise [Visual Studio Code](https://code.visualstudio.com/).
 
 Je vous recommande aussi d'installer l'extension `Live Server` pour Visual Studio Code. Cette extension permet de visualiser le rendu de votre code HTML en temps réel.
 
@@ -65,7 +65,7 @@ Pour générer cette structure automatiquement, vous pouvez taper `!` dans un fi
 
 ![Structure HTML](resources/generate-html.png)
 
-> [!NOTE] Remarque
+> [!NOTE]
 > Si vous regardez le résultat dans le navigateur, vous ne verrez rien.
 
 ## Les balises HTML
@@ -92,7 +92,7 @@ A l'intérieur de la balise `<html>`, le code est divisé en deux parties :
 - `<head></head>` : Contient les métadonnées de la page, comme le titre, la description, les styles CSS, etc. Cette partie n'est pas affichée dans le navigateur, mais est utilisée par les moteurs de recherche et par le navigateur pour afficher la page.
 - `<body></body>` : Contient le contenu de la page, comme du texte, des images, des liens et tout ce que vous voulez afficher dans le navigateur.
 
-> [!IMPORTANT]Petit Exercice
+> [!IMPORTANT]
 > Ajoutez du texte dans la page HTML et visualisez le rendu dans le navigateur.
 
 ## Quelques balises HTML courantes
@@ -107,7 +107,7 @@ Cette partie va vous présenter quelques balises HTML couramment utilisées pour
 - `<em></em>` : Texte en italique.
 - `<br />`: Saut de ligne.
 
-> [!NOTE] Remarque
+> [!NOTE]
 > Il est possible d'écrire du texte directement dans la balise `<body>`, mais il est recommandé d'utiliser les balises de texte pour structurer votre contenu.
 
 ### Les images
@@ -120,10 +120,10 @@ Une image est affichée à l'aide de la balise `<img />`. Cette balise est auto-
 
 Le chemin de l'image peut être un URL complet, ou un chemin relatif à la page HTML.
 
-> [!WARNING] Attention
+> [!WARNING]
 > Il est important de donner un `alt` à chaque image pour des raisons d'accessibilité. Cela permet à la fois d'expliquer ce que fait cette image dans le cas où elle ne serait pas chargée, mais aussi d'aider les moteurs de recherche à comprendre le contenu de l'image.
 
-> [!TIP] Astuce
+> [!TIP]
 > Il est recommandé de ranger les images dans un dossier `images` à la racine de votre projet pour garder un code source bien organisé.
 
 ### Les liens
@@ -146,7 +146,7 @@ Il est possible de faire des listes en utilisant les balises `<ul></ul>` pour en
 </ul>
 ```
 
-> [!TIP] Astuce
+> [!TIP]
 > Il est possible de créer des listes ordonnées en utilisant la balise `<ol></ol>` à la place de `<ul></ul>`.
 
 ### Les balises de structure
@@ -161,7 +161,7 @@ Il est possible de faire des listes en utilisant les balises `<ul></ul>` pour en
 - `<main></main>` : Balise de contenu principal. Elle est utilisée pour regrouper le contenu principal de la page.
 - `<article></article>` : Balise d'article. Elle est utilisée pour regrouper les éléments d'un article.
 
-> [!NOTE] Remarque
+> [!NOTE]
 > Il existe beaucoup de balises de structure et il n'est pas utile de toutes les retenir. Il est possible d'avoir un comportement similaire en utilisant des balises génériques comme `<div>` et `<span>`. Cependant, il est recommandé d'utiliser les balises de structure pour aider les moteurs de recherche à comprendre la structure de votre page.
 
 ## Les formulaires
@@ -202,7 +202,7 @@ Les pages sont accessibles en changeant l'URL dans le navigateur.
 - La page `index.html` est accessible à la racine de votre site, c'est à dire à l'adresse `http://localhost:5500/` si vous utilisez `Live Server`.
 - Une autre page `about.html` serait accessible à l'adresse `http://localhost:5500/about.html`.
 
-> [!IMPORTANT]Petit Exercice
+> [!IMPORTANT]
 > Créez une nouvelle page `about.html` et ajoutez un lien vers cette page dans la page `index.html`.
 
 ## Mini Projet
@@ -213,5 +213,5 @@ Pour vous aider, voici les étapes à suivre :
 
 - Créez un nouveau dossier pour votre projet
 - Créez les différents fichier HTML pour votre projet.
-- Créez un dossier `images` et ajoutez les images nécessaires pour votre page. Vous pouvez les télécharger [ici]()
+- Créez un dossier `images` et ajoutez les images nécessaires pour votre page.
 - Ajoutez le contenu des différentes sections de la page en utilisant les balises HTML appropriées.
